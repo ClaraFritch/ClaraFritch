@@ -2,11 +2,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8abb1&height=120&section=header"/>
 
-Olá! Eu me chamo Clara, sou formada em Produção Multimídia pelo Centro Universitário Belas Artes de São Paulo e amo programar e desenhar. Desenvolvo aplicações web e jogos digitais para mobile e crio artes 3D e animações 2D.
+Olá! Eu me chamo Clara, sou formada em Produção Multimídia pelo Centro Universitário Belas Artes de São Paulo e amo programar e desenhar. Desenvolvo aplicações front-end para a web e jogos digitais para dispositivos móveis, crio artes 3D e faço animações 2D.
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ClaraFritch&show_icons=true&count_private=true&hide_border=true&title_color=d8abb1&icon_color=c8a2c8&text_color=d8abb1&bg_color=0d1117" alt="My stats"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraFritch&layout=compact&hide_border=true&title_color=d8abb1&text_color=d8abb1&bg_color=0d1117" alt="My most used languages"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ClaraFritch&show_icons=true&count_private=true&hide_border=true&title_color=d8abb1&icon_color=d8abb1&text_color=c9d1d9&bg_color=0d1117" alt="My stats"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraFritch&layout=compact&hide_border=true&title_color=d8abb1&text_color=c9d1d9&bg_color=0d1117" alt="My most used languages"/>
 </div>
 
 ### Tecnologias e ferramentas:
